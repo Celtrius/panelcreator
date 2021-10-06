@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>
-	Comments for Panel Creator	</title>
+	Comments for Twitch Panel Creator	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
-	<description>Just another WordPress site</description>
+	<description>A better way to design your panels</description>
 	<lastBuildDate>Wed, 06 Oct 2021 17:11:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
