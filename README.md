@@ -1,2 +1,2 @@
 # panelcreator
-A panel creator for Twitch
+A panel creator for Twitch.
